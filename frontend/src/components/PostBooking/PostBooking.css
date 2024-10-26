@@ -1,0 +1,24 @@
+.success-message{
+    /* background-color: yellow; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+.btn-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+.Booking-summ-btn{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(188, 84, 164);
+    padding: 10px;
+    border-radius: 12px;
+    color: white;
+    font-size: x-large;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

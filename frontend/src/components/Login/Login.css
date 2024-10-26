@@ -1,0 +1,39 @@
+#login-container{
+    /* background-image: url("https://cdn.pixabay.com/photo/2016/04/05/06/29/theater-1308794_1280.jpg"); */
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/25/12/14/circle-5090539_1280.jpg");
+    color: white;
+    
+}
+#form-container{
+    /* background-image: url('https://cdn.pixabay.com/photo/2016/09/16/00/17/gold-1673029_1280.jpg'); */
+    backdrop-filter: blur(2px);
+}
+#form-cont {
+    box-sizing: border-box;
+    border: 2px solid rgb(43, 89, 136);
+    box-shadow: -8px 8px 8px 13px rgba(14, 2, 66, 0.5); 
+}
+
+#form-container h4{
+    color: rgb(116, 166, 146);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#form-container h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: xx-large;
+margin-bottom: 40px;
+}
+.login-btn{
+display: flex;
+justify-content: center;
+margin-top: 40px;
+margin-bottom: 20px;
+    
+}
+.custom-btn{
+    background: linear-gradient(to right, #679dc4, #065c53);
+    color: rgb(199, 221, 224);
+    padding: 10px;
+    font-size: large;
+    font-weight: 700;
+  }

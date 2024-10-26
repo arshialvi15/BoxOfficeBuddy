@@ -1,0 +1,59 @@
+.seat-container{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    
+}
+.seat-gold{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+    margin: 80px;
+}
+.seat-gold span{
+   border: 2px solid;
+   border-radius: 18px;
+   padding: 15px;
+   font-size: large;
+   /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 30px;
+}
+.seat-gold span:hover{
+  background-color: rgb(244, 214, 124);
+}
+
+
+.seat-silver{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+    margin: 80px;
+}
+.seat-silver span{
+   border: 2px solid;
+   border-radius: 18px;
+   padding: 15px;
+   font-size: large;
+   /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 30px;
+}
+.seat-silver span:hover{
+  background-color: gray;
+}
+.seat-select{
+display: flex;
+justify-content: center;
+}
+.seat-select-btn{
+background-color: rgb(51, 161, 51);
+border-radius: 15px;
+padding: 14px;
+color: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: large;
+
+}

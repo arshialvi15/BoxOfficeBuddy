@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "65af49399b6434017fc18f29"
+  },
+  "id": 1,
+  "title": "Batman",
+  "image": "",
+  "img": "https://imgs.search.brave.com/mwgeTk8ND2dnYQujreiOKcUWE3lWPBpydGCAtuLKY8g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF4VTE4QTZNUkwu/anBn",
+  "director": "Matt Reeves",
+  "starring_actors": "Robert Pattinson",
+  "runtime": "3hrs10min",
+  "genre": "Drama, Crime, Action",
+  "description": "Crime-Drama",
+  "language": "English",
+  "rating": "PG-13",
+  "popcorn_rating": 7.3,
+  "tomato_rating": 3.8,
+  "release_date": {
+    "$date": "2020-02-06T00:00:00.000Z"
+  },
+  "city": "bhopal, mumbai"
+},
+{
+  "_id": {
+    "$oid": "65af4a079b6434017fc18f2a"
+  },
+  "id": 2,
+  "title": "spiderman",
+  "image": "",
+  "img": "https://imgs.search.brave.com/sF1zAhk5dBVZHrYdG0_V3KrMRg-hrn1rzAQwCEQqSaY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODE5YUFPc2FyWUwu/anBn",
+  "director": "Jon Watts",
+  "starring_actors": "Tom Holland",
+  "runtime": "2hrs30min",
+  "genre": "Scifi Action",
+  "description": "Thrill Adventure",
+  "language": "English",
+  "rating": "PG",
+  "popcorn_rating": 8.2,
+  "tomato_rating": 4.2,
+  "release_date": {
+    "$date": "2020-06-06T00:00:00.000Z"
+  },
+  "city": "bhopal,indore"
+},
+{
+  "_id": {
+    "$oid": "65af4a5c9b6434017fc18f2b"
+  },
+  "id": 3,
+  "title": "Mother India",
+  "image": "",
+  "img": "https://imgs.search.brave.com/9fETjKql0d1PmeR4a9yWXaivYfKimqrOhSTZt7sp5Ws/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Mi8yMC9Nb3RoZXJf/SW5kaWFfcG9zdGVy/LmpwZy8yMjBweC1N/b3RoZXJfSW5kaWFf/cG9zdGVyLmpwZw",
+  "director": "Mehboob Khan",
+  "starring_actors": "Nargis,Sunil Dutt",
+  "runtime": "3hrs10min",
+  "genre": "Drama",
+  "description": "In this melodrama, a poverty-stricken woman raises her sons through many trials and tribulations.",
+  "language": "Hindi",
+  "rating": "G",
+  "popcorn_rating": 8.6,
+  "tomato_rating": 2.8,
+  "release_date": {
+    "$date": {
+      "$numberLong": "-407116800000"
+    }
+  },
+  "city": "Bhopal,Indore,Delhi,Banglore, Mumbai"
+},
+{
+  "_id": {
+    "$oid": "65af5f741e211acd3e22c17d"
+  },
+  "id": 4,
+  "title": "Avengers",
+  "image": "",
+  "img": "https://imgs.search.brave.com/Rp3VWtK3QLo5jXi4lQkreNKip8JJdG3WwVoZifMsCNA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UYzVNREUy/T0Rjd05WNUJNbDVC/YW5CblhrRnRaVGd3/TXpJMk56UTJOek1A/LmpwZw",
+  "director": "Joss Whedon",
+  "starring_actors": "Chris Evans,Robert Downey Jr.",
+  "runtime": "3hrs30min",
+  "genre": "Scifi Action",
+  "description": "Thrill Adventure",
+  "language": "English",
+  "rating": "PG",
+  "popcorn_rating": 9.2,
+  "tomato_rating": 3.9,
+  "release_date": {
+    "$date": "2015-05-06T00:00:00.000Z"
+  },
+  "city": "kolkata"
+},
+{
+  "_id": {
+    "$oid": "65af60891e211acd3e22c17e"
+  },
+  "id": 5,
+  "title": "Your Name",
+  "image": "",
+  "img": "https://imgs.search.brave.com/h6YLHKv5VIE1wbuGidIvYmGdB2C3vEL54GiHRXhnQmc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpXWTVNV0Ux/TldFdE1qRXlZaTAw/WlRGaExUbGhNR1V0/TVRFMU16azJNekpr/Tnprd1hrRXlYa0Zx/Y0dkZVFYVnlNVFl6/TURNME5UVUAuanBn",
+  "director": "Makoto Shinkai",
+  "starring_actors": "Makoto Shinkai",
+  "runtime": "3hrs30min",
+  "genre": "Animation, Drama, fantasy",
+  "description": "Drama",
+  "language": "English, Japanese",
+  "rating": "G",
+  "popcorn_rating": 8.7,
+  "tomato_rating": 3.9,
+  "release_date": {
+    "$date": "2017-05-06T00:00:00.000Z"
+  },
+  "city": "kolkata, Bhopal, Delhi"
+},
+{
+  "_id": {
+    "$oid": "65af61b01e211acd3e22c17f"
+  },
+  "id": 6,
+  "title": "Tenet",
+  "image": "",
+  "img": "https://imgs.search.brave.com/2vcgvHgh0oCzfBRulsSk34NThQxFvivpV_Ww0pdzNwc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllqVTROREJr/TVRRdE9EUTNOUzAw/WkdJd0xUZzNOalV0/WW1VMlpUTTFaVE01/TkdFelhrRXlYa0Zx/Y0dkZVFYVnlOall4/Tnpjek1EVUAuanBn",
+  "director": "Christopher Nolan",
+  "starring_actors": "John David Washington",
+  "runtime": "3hrs30min",
+  "genre": "Thrill, Action, Scifi",
+  "description": "Thriller",
+  "language": "English, German",
+  "rating": "PG",
+  "popcorn_rating": 7.7,
+  "tomato_rating": 4.1,
+  "release_date": {
+    "$date": "2017-05-06T00:00:00.000Z"
+  },
+  "city": "Mumbai,Indore, Delhi"
+},
+{
+  "_id": {
+    "$oid": "65af63151e211acd3e22c180"
+  },
+  "id": 7,
+  "title": "Inception",
+  "image": "",
+  "img": "https://imgs.search.brave.com/cldU0dN1_cNsF0TFSthwUbBfJ-gHJGO4g1lqlLnJBr0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpHRmpPVFJp/WWpndFlqRXpNUzAw/WmpRMkxUa3pZMll0/T0dRME5ESTJOVFZq/T0dGbVhrRXlYa0Zx/Y0dkZVFYVnlORFE1/TURZek1Ua0AuanBn",
+  "director": "Christopher Nolan",
+  "starring_actors": "Leonardo DiCaprio",
+  "runtime": "2hrs30min",
+  "genre": "Thriller, Adventure, Scifi",
+  "description": "Thriller",
+  "language": "English, German",
+  "rating": "PG",
+  "popcorn_rating": 8.7,
+  "tomato_rating": 3.1,
+  "release_date": {
+    "$date": "2012-05-06T00:00:00.000Z"
+  },
+  "city": "Indore, Delhi"
+}]

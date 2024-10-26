@@ -1,0 +1,646 @@
+[{
+  "_id": {
+    "$oid": "65af4b139b6434017fc18f2c"
+  },
+  "id": 1,
+  "movie_id": 2,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af674a1e211acd3e22c181"
+  },
+  "id": 2,
+  "movie_id": 1,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67651e211acd3e22c182"
+  },
+  "id": 3,
+  "movie_id": 3,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67691e211acd3e22c183"
+  },
+  "id": 4,
+  "movie_id": 4,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af676f1e211acd3e22c184"
+  },
+  "id": 5,
+  "movie_id": 6,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67711e211acd3e22c185"
+  },
+  "id": 6,
+  "movie_id": 7,
+  "name": "MXM multiplex",
+  "address": "mxmnagar",
+  "city": "Bhopal",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67ba1e211acd3e22c186"
+  },
+  "id": 7,
+  "movie_id": 1,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67bd1e211acd3e22c187"
+  },
+  "id": 8,
+  "movie_id": 3,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67c01e211acd3e22c188"
+  },
+  "id": 9,
+  "movie_id": 2,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67c31e211acd3e22c189"
+  },
+  "id": 10,
+  "movie_id": 5,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67c61e211acd3e22c18a"
+  },
+  "id": 11,
+  "movie_id": 6,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67c81e211acd3e22c18b"
+  },
+  "id": 12,
+  "movie_id": 7,
+  "name": "XSM multiplex",
+  "address": "XSMnagar",
+  "city": "Indore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af67ff1e211acd3e22c18c"
+  },
+  "id": 13,
+  "movie_id": 1,
+  "name": "ANN multiplex",
+  "address": "Annagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208942000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68061e211acd3e22c18d"
+  },
+  "id": 14,
+  "movie_id": 6,
+  "name": "ANN multiplex",
+  "address": "Annagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208942000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68081e211acd3e22c18e"
+  },
+  "id": 15,
+  "movie_id": 4,
+  "name": "ANN multiplex",
+  "address": "Annagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208942000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af683b1e211acd3e22c18f"
+  },
+  "id": 16,
+  "movie_id": 2,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af683c1e211acd3e22c190"
+  },
+  "id": 17,
+  "movie_id": 3,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68401e211acd3e22c191"
+  },
+  "id": 18,
+  "movie_id": 5,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68421e211acd3e22c192"
+  },
+  "id": 19,
+  "movie_id": 7,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af687b1e211acd3e22c193"
+  },
+  "id": 20,
+  "movie_id": 1,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af687d1e211acd3e22c194"
+  },
+  "id": 21,
+  "movie_id": 2,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af687f1e211acd3e22c195"
+  },
+  "id": 22,
+  "movie_id": 2,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68821e211acd3e22c196"
+  },
+  "id": 23,
+  "movie_id": 3,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68841e211acd3e22c197"
+  },
+  "id": 24,
+  "movie_id": 4,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68861e211acd3e22c198"
+  },
+  "id": 25,
+  "movie_id": 5,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68891e211acd3e22c199"
+  },
+  "id": 26,
+  "movie_id": 6,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af688b1e211acd3e22c19a"
+  },
+  "id": 27,
+  "movie_id": 7,
+  "name": "GIKi multiplex",
+  "address": "GXnagar",
+  "city": "Banglore",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208963600000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68ca1e211acd3e22c19b"
+  },
+  "id": 28,
+  "movie_id": 1,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68cc1e211acd3e22c19c"
+  },
+  "id": 29,
+  "movie_id": 2,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68cd1e211acd3e22c19d"
+  },
+  "id": 30,
+  "movie_id": 3,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68ce1e211acd3e22c19e"
+  },
+  "id": 31,
+  "movie_id": 4,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68d01e211acd3e22c19f"
+  },
+  "id": 32,
+  "movie_id": 5,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68d31e211acd3e22c1a0"
+  },
+  "id": 33,
+  "movie_id": 6,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65af68d81e211acd3e22c1a1"
+  },
+  "id": 34,
+  "movie_id": 7,
+  "name": "Sagar multiplex",
+  "address": "Sagrnagar",
+  "city": "Delhi",
+  "pincode": "12345",
+  "date": {
+    "$date": "2024-03-09T00:00:00.000Z"
+  },
+  "movie_timing": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  }
+}]

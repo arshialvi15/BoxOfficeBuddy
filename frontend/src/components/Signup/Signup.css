@@ -1,0 +1,46 @@
+.signup-container{
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/25/12/14/circle-5090539_1280.jpg");
+    color: white;
+}
+
+#signup-form{
+    /* background-image: url('https://cdn.pixabay.com/photo/2016/09/16/00/17/gold-1673029_1280.jpg'); */
+    backdrop-filter: blur(4px);
+    box-sizing: border-box;
+    border: 2px solid rgb(43, 89, 136); /* Set border color to black */
+    box-shadow: -8px 8px 8px 13px rgba(14, 2, 66, 0.5); /* Set shadow color to black */
+}
+
+#signup-form h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(116, 166, 146);
+margin-top: 20px;
+}
+#signup-form h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: xx-large;
+        margin-bottom: 20px;
+}
+#signup-form input{
+border: none; 
+    border-bottom: 1px solid rgb(205, 199, 199); 
+    outline: none; 
+    background-color: transparent; 
+   width: 26vw;
+   color: white;
+}
+
+.signup-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+        
+    }
+    .custom-signup-btn{
+        background: linear-gradient(to right, #679dc4, #065c53);
+        color: rgb(199, 221, 224);
+        padding: 10px;
+        font-size: large;
+        font-weight: 700;
+      }

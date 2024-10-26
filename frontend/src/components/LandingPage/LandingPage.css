@@ -1,0 +1,93 @@
+.main-container{
+    margin-top: 0;
+    padding: 10px;
+}
+.main-text{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+.main-text1{
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    gap: 20px;
+}
+.main-text2{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}
+.main-text3{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}
+.search-container{
+/* background-color: rgb(77, 174, 239); */
+background: transparent;
+margin-top: 2%;
+padding: 55px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+.search-text{
+    display: flex;
+    flex-direction: column;
+}
+.filter-divs{
+background-color: rgb(246, 247, 247);
+display: flex;
+justify-content: space-between;
+color: black;
+}
+.filter-div{
+ background-color:  transparent;
+display: flex;
+padding: 2%;
+
+}
+.filter-div-label{
+  font-size: large;
+ margin-right: 40px;
+   
+}
+.filter-div-input{
+
+}
+#card-container{
+padding: 50px;
+background-color: #191939;
+}
+#card-body-box {
+    transition: transform 0.3s ease; /* Adding a transition for a smooth effect */
+}
+
+#card-body-box:hover {
+    /* background-color: rgb(236, 231, 231); */
+    color: darkblue;
+    box-shadow: -5px 5px 6px 1px rgba(255, 255, 255, 0.9);/* Shadow on the left and above */
+    transform: translate(5px, -15px); /* Move 5px to the right and 5px down on hover */
+}
+.unavailable-txt {
+    padding: 20px;
+    color: #000;
+    background-color: #e9e1e1;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    border-radius: 0.5rem; /* Add the unit 'rem' for border-radius */
+}
+.ratings-div{
+    display: flex;
+    justify-content: space-between;
+}
+#ratings{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+

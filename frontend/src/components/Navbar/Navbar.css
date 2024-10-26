@@ -1,0 +1,30 @@
+nav{
+    background-color: rgb(8, 8, 72);
+  }
+#nav-container{
+    background-color: rgb(17, 17, 86);
+    padding: 5px;
+    box-shadow: 4px 8px 8px 8px rgba(198, 190, 190, 0.1);
+    
+}
+#nav-title{
+    color: rgb(234, 236, 222);
+    margin-left: 5%;
+    font-size: x-large;
+}
+#nav-title2{
+    color: rgb(238, 10, 10);
+}
+#nav-item{
+    color: rgb(234, 236, 222);
+    font-size: large;
+}
+#nav-btn{
+    color: rgb(234, 236, 222);
+    font-size: large;
+}
+#nav-btn2{
+    color: rgb(234, 236, 222);
+    margin-right: 10px;
+    font-size: large;
+}
